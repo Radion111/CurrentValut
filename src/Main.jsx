@@ -1,8 +1,5 @@
 import React from "react";
 import { useState, useEffect, useRef } from "react";
-import Select from "react-select";
-
-import Select2 from "react-select";
 
 import "./App.css";
 
